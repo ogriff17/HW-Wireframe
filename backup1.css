@@ -50,11 +50,11 @@ header{
 #aside {
     background:#ebebeb;
     position:absolute;
-    left:747px;
+    left:750px;
     padding:10px;
     width:380px;
     height:240px;
-    margin:10px 10px 20px 0px;
+    margin: 10px 10px 20px 0px;
     color:black;
     float:left;
     
@@ -93,9 +93,9 @@ header{
 
 #footer{
     background:#ebebeb;
-    padding:20px;
+    padding:10px;
     margin:10px 20px 0px 200px;
-    width:900px;
+    width:920px;
     color:black;
 }
 
